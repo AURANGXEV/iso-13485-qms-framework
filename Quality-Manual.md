@@ -1,6 +1,6 @@
 # Quality Manual (QM_01)
 
-**MediTech Solutions Inc.** *(a fictional company created for an academic project)*
+*An educational reference Quality Manual for a fictional manufacturer of sterile, single-use medical devices.*
 
 | | |
 | --- | --- |
@@ -9,7 +9,7 @@
 | Standard | ISO 13485:2016 |
 | Related regulations | US FDA 21 CFR Part 820, MDSAP, Health Canada CMDR |
 
-> **Note:** This Quality Manual was developed as a graduate capstone project in Global Regulatory Affairs. It describes the Quality Management System of a fictional medical device manufacturer and is shared for educational purposes. Figures from the original document (organization chart, process interaction diagram) are not included in this markdown version.
+> **Note:** This Quality Manual describes the Quality Management System of a fictional medical device manufacturer and is shared for educational and reference purposes. Figures from the original document (organization chart, process interaction diagram) are not included in this markdown version.
 
 ## Approvals
 
@@ -33,7 +33,7 @@
 
 ### 1.1 Company History and Layout
 
-MediTech Solutions Inc. was established in 2005, designs, manufactures, and markets products for medical devices dedicated to enhancing patient care, clinical outcomes, and operational efficiency for healthcare providers. MediTech Solutions Inc has significant operations across Canada and the USA.
+The Company was established in 2005; it designs, manufactures, and markets products for medical devices dedicated to enhancing patient care, clinical outcomes, and operational efficiency for healthcare providers. It has significant operations across Canada and the USA.
 
 Mission:
 
@@ -45,7 +45,7 @@ To be a global leader recognized for pioneering medical device innovations, exce
 
 ### 1.2 Organizational Structure
 
-An organizational chart outlining the key functional areas of *MediTech Solutions Inc* is provided below:
+An organizational chart outlining the key functional areas of the Company is provided below:
 
 **Fig 1: Organization hierarchy**
 
@@ -53,7 +53,7 @@ An organizational chart outlining the key functional areas of *MediTech Solution
 
 ### 2.1 Purpose
 
-The purpose of this Quality Manual is to establish and state the general policies governing *MediTech Solutions Inc.* Quality Management System (QMS). These policies define management’s intended arrangements for managing operations and activities in accordance with the framework established by ISO13485:2016, US Food and Drug Administration (FDA) Quality System Requirements Title 21 CFR Part 820, and MDSAP.
+The purpose of this Quality Manual is to establish and state the general policies governing the Company's Quality Management System (QMS). These policies define management’s intended arrangements for managing operations and activities in accordance with the framework established by ISO13485:2016, US Food and Drug Administration (FDA) Quality System Requirements Title 21 CFR Part 820, and MDSAP.
 
 ### 2.2 Responsibilities
 
@@ -76,7 +76,7 @@ The purpose of this Quality Manual is to establish and state the general policie
 <tr class="odd">
 <td>All Personnel</td>
 <td><ul>
-<li><p>Implementing policies and striving to maintain effectiveness of the QMS in all activities and processes at MediTech Solutions Inc.</p></li>
+<li><p>Implementing policies and striving to maintain effectiveness of the QMS in all activities and processes at the Company.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -86,11 +86,11 @@ The purpose of this Quality Manual is to establish and state the general policie
 
 ### 3.1 General
 
-MediTech Solutions Inc. has developed and implemented the Quality Management System (QMS) in compliance with the requirements of ISO 13485:2016, the Medical Device Single Audit Program (MDSAP), and 21 CFR Part 820 to help our organization operate with increased effectiveness, consistency and to demonstrate our ability to provide medical devices and related services that consistently meet customer requirements and regulatory requirements applicable to medical devices
+The Company has developed and implemented the Quality Management System (QMS) in compliance with the requirements of ISO 13485:2016, the Medical Device Single Audit Program (MDSAP), and 21 CFR Part 820 to help our organization operate with increased effectiveness, consistency and to demonstrate our ability to provide medical devices and related services that consistently meet customer requirements and regulatory requirements applicable to medical devices
 
 ### 3.2 Application
 
-MediTech Solutions Inc. has established and maintains a comprehensive Quality Management System (QMS) in compliance with the requirements of ISO 13485:2016, the Medical Device Single Audit Program (MDSAP), and 21 CFR Part 820. This QMS encompasses the design, development, manufacturing, sterilization, labeling, packaging, distribution, and post-market surveillance activities of:
+The Company has established and maintains a comprehensive Quality Management System (QMS) in compliance with the requirements of ISO 13485:2016, the Medical Device Single Audit Program (MDSAP), and 21 CFR Part 820. This QMS encompasses the design, development, manufacturing, sterilization, labeling, packaging, distribution, and post-market surveillance activities of:
 
   - **Sterile Disposable Products**: High-quality, single-use items such as surgical gowns, drapes, syringes, catheters, and wound care supplies.
 
@@ -110,9 +110,9 @@ The Quality Manual sections are numbered to coincide with the equivalent section
 
 ### 3.4 Terms And Definitions
 
-This section defines terminology used in MediTech Solutions Inc.'s Quality Management System documentation.
+This section defines terminology used in the Company's Quality Management System documentation.
 
-Critical Supplier: A supplier of components, materials, or services that have a significant impact on the safety, performance, or quality of MediTech's finished medical devices.
+Critical Supplier: A supplier of components, materials, or services that have a significant impact on the safety, performance, or quality of the Company's finished medical devices.
 
 Ethylene Oxide (EO) Sterilization: A low-temperature sterilization method using ethylene oxide gas that is commonly used for heat-sensitive medical devices.
 
@@ -126,7 +126,7 @@ Unique Device Identification (UDI): A system to adequately identify medical devi
 
 ### 4.1 General Requirements
 
-Through this Quality Manual and associated procedures and documents, MediTech has documented a Quality Management System (QMS) that conforms to the requirements of:
+Through this Quality Manual and associated procedures and documents, the Company has documented a Quality Management System (QMS) that conforms to the requirements of:
 
   - ISO 13485:2016
 
@@ -136,7 +136,7 @@ Through this Quality Manual and associated procedures and documents, MediTech ha
 
   - MDSAP (Medical Device Single Audit Program)
 
-The purpose of the QMS is to continually improve its effectiveness and ensure MediTech’s compliance with applicable regulatory requirements and the satisfaction of customer needs. The role taken by MediTech Solutions is that of a Manufacturer, countries where MediTech does not have its local presence, an authorized/legal representative will be appointed to communicate with the local or competent authority of the respective country. MediTech Inc manufactures sterile medical devices and incorporates Ethylene Oxide (EO) sterilization into the process. MediTech has:
+The purpose of the QMS is to continually improve its effectiveness and ensure the Company’s compliance with applicable regulatory requirements and the satisfaction of customer needs. The role taken by the Company is that of a Manufacturer, countries where the Company does not have its local presence, an authorized/legal representative will be appointed to communicate with the local or competent authority of the respective country. The Company manufactures sterile medical devices and incorporates Ethylene Oxide (EO) sterilization into the process. The Company has:
 
   - Identified applicable processes necessary for the QMS and implement them throughout the organization.
 
@@ -144,7 +144,7 @@ The purpose of the QMS is to continually improve its effectiveness and ensure Me
 
   - Determine the sequence and interaction of QMS processes, as outlined in the applicable SOPs and documented in the Form\_01\_02 - Master List of Documents.
 
-  - For each process, MediTech has:
+  - For each process, the Company has:
 
       - Established criteria and methods for effective process operation and control.
 
@@ -166,7 +166,7 @@ QMS processes are managed in accordance with the listed standards and regulation
 
 **Fig 2: QMS Process Interaction Diagram**
 
-When MediTech outsources any process affecting product quality or regulatory compliance, the organization:
+When the Company outsources any process affecting product quality or regulatory compliance, the organization:
 
   - Maintains oversight and control over the outsourced process.
 
@@ -174,9 +174,9 @@ When MediTech outsources any process affecting product quality or regulatory com
 
   - Ensures suppliers and contractors meet applicable regulatory and quality requirements, including through supplier quality agreements and audits.
 
-MediTech Solutions Inc. documents its design and development processes in SOP\_09 – Design and Development Control, which outlines procedures for sterile disposable medical devices. The procedure ensures that design activities comply with applicable regulatory requirements and are structured to deliver safe and effective products that meet intended use and user needs.
+The Company documents its design and development processes in SOP\_09 – Design and Development Control, which outlines procedures for sterile disposable medical devices. The procedure ensures that design activities comply with applicable regulatory requirements and are structured to deliver safe and effective products that meet intended use and user needs.
 
-MediTech validates computer software used in the QMS in accordance with documented procedures as per SOP\_020 - Software and Process Validation. Validation activities are to:
+The Company validates computer software used in the QMS in accordance with documented procedures as per SOP\_020 - Software and Process Validation. Validation activities are to:
 
   - Be conducted prior to initial use.
 
@@ -190,7 +190,7 @@ MediTech validates computer software used in the QMS in accordance with document
 
 #### 4.2.1 General
 
-The documentation supporting MediTech’s Quality Management System (QMS) includes:
+The documentation supporting the Company’s Quality Management System (QMS) includes:
 
   - The Quality Policy (QP\_02) and Quality Objectives (QO\_03);
 
@@ -202,7 +202,7 @@ The documentation supporting MediTech’s Quality Management System (QMS) includ
 
   - Any additional documentation is required for regulatory compliance and product conformity.
 
-  - MediTech adheres to Good Documentation Practices (GDP) to ensure all QMS documents and records are legible, traceable, timely, and accurate. Documentation is completed concurrently with activities, reviewed for accuracy, and retained per SOP\_01 – Control of Documents, SOP\_02 – Control of Records.
+  - the Company adheres to Good Documentation Practices (GDP) to ensure all QMS documents and records are legible, traceable, timely, and accurate. Documentation is completed concurrently with activities, reviewed for accuracy, and retained per SOP\_01 – Control of Documents, SOP\_02 – Control of Records.
 
   - Document changes are reviewed, approved, and tracked via Form\_01-01 Document Change Request (DCR) and listed in Form\_01-02 Master List of Documents.
 
@@ -230,7 +230,7 @@ The structure and relationship of the QMS and product-related documents is defin
 
 #### 4.2.3 Medical Device File
 
-For each product type, MediTech maintains a Medical Device File containing:
+For each product type, the Company maintains a Medical Device File containing:
 
   - Product description and specifications.
 
@@ -244,7 +244,7 @@ For each product type, MediTech maintains a Medical Device File containing:
 
 #### 4.2.4 Control of Documents
 
-Controlled documents within MediTech’s QMS are governed by SOP-01 – Control of Documents. Key controls include:
+Controlled documents within the Company’s QMS are governed by SOP-01 – Control of Documents. Key controls include:
 
   - Approval before issuance.
 
@@ -274,13 +274,13 @@ All records are created to demonstrate QMS and product conformity and is maintai
 
 ### 5.1 Management Commitment
 
-MediTech’s top management demonstrates a strong commitment to implementing and maintaining an effective Quality Management System (QMS) aligned with ISO 13485:2016 and applicable regulatory requirements (e.g. FDA 21 CFR Part 820, Health Canada). This commitment is shown through as mentioned in (SOP\_03 – Management Responsibility):
+The Company’s top management demonstrates a strong commitment to implementing and maintaining an effective Quality Management System (QMS) aligned with ISO 13485:2016 and applicable regulatory requirements (e.g. FDA 21 CFR Part 820, Health Canada). This commitment is shown through as mentioned in (SOP\_03 – Management Responsibility):
 
   - Ensuring the availability of adequate resources (qualified personnel, sterile manufacturing infrastructure, validated equipment).
 
   - Supporting and promoting a culture of quality and regulatory compliance at all organizational levels.
 
-  - Establishing and regularly reviewing the Quality Policy and Quality Objectives in alignment with MediTech's product safety and performance goals.
+  - Establishing and regularly reviewing the Quality Policy and Quality Objectives in alignment with the Company's product safety and performance goals.
 
   - Focusing on customer and patient safety, especially sterile single-use devices used in surgical and clinical settings.
 
@@ -288,7 +288,7 @@ MediTech’s top management demonstrates a strong commitment to implementing and
 
 ### 5.2 Customer Focus
 
-MediTech management as per SOP\_03 – Management Responsibility ensures that customer and regulatory requirements are determined and met with the aim of enhancing customer satisfaction, especially regarding safety and performance of sterile disposables by:
+The Company management as per SOP\_03 – Management Responsibility ensures that customer and regulatory requirements are determined and met with the aim of enhancing customer satisfaction, especially regarding safety and performance of sterile disposables by:
 
   - Monitoring customer complaints related to product sterility, usability (e.g., drape stickiness, catheter kink resistance), or packaging failures.
 
@@ -300,7 +300,7 @@ MediTech management as per SOP\_03 – Management Responsibility ensures that cu
 
 ### 5.3 Quality Policy
 
-At MediTech Solutions, we are committed to design, develop, and manufacture high-quality sterile disposable products that consistently meet customer expectations and comply with all applicable regulatory and statutory requirements. Our mission is to ensure patient safety and customer satisfaction by maintaining the highest standards of product quality and reliability throughout the manufacturing process.
+At the Company, we are committed to design, develop, and manufacture high-quality sterile disposable products that consistently meet customer expectations and comply with all applicable regulatory and statutory requirements. Our mission is to ensure patient safety and customer satisfaction by maintaining the highest standards of product quality and reliability throughout the manufacturing process.
 
 The Quality Policy (QP\_02- Quality Policy) is appropriate to the purpose of the organization and includes commitment to:
 
@@ -342,11 +342,11 @@ Top management ensures Quality management system planning as mentioned in QPL\_0
 
 #### 5.5.1 Responsibility and Authority
 
-MediTech maintains an up-to-date roles and responsibilities form (Form\_03-01) as per the hierarchy of the organizational chart (Form\_03-02).
+The Company maintains an up-to-date roles and responsibilities form (Form\_03-01) as per the hierarchy of the organizational chart (Form\_03-02).
 
 #### 5.5.2 Management Representative
 
-  - MediTech has appointed a qualified Management Representative as per SOP\_03- Management responsibility with the authority and responsibility to:
+  - the Company has appointed a qualified Management Representative as per SOP\_03- Management responsibility with the authority and responsibility to:
 
   - Ensure QMS processes are maintained per ISO 13485, MDSAP, 21 CFR PART 820 and ISO 14971.
 
@@ -370,7 +370,7 @@ MediTech maintains an up-to-date roles and responsibilities form (Form\_03-01) a
 
 #### 5.6.1 General
 
-MediTech conducts formal management reviews as per SOP\_03- Management responsibility every 6 months to assess the performance and suitability of the QMS.
+The Company conducts formal management reviews as per SOP\_03- Management responsibility every 6 months to assess the performance and suitability of the QMS.
 
 #### 5.6.2 Review Input
 
@@ -416,11 +416,11 @@ Outputs of the management review is documented in Form\_03-04 – Minutes of Mee
 
 ### 6.1 Provision of Resources
 
-MediTech Solutions Inc. Human Resources provides the necessary resources to implement the Quality Management System (QMS), maintain its effectiveness, and meet applicable regulatory and customer requirements as per SOP\_05 – Resource and Infrastructure Management. These resources include infrastructure, personnel, work environment, tools, and supporting services.
+The Company Human Resources provides the necessary resources to implement the Quality Management System (QMS), maintain its effectiveness, and meet applicable regulatory and customer requirements as per SOP\_05 – Resource and Infrastructure Management. These resources include infrastructure, personnel, work environment, tools, and supporting services.
 
 ### 6.2 Human Resources
 
-Personnel performing work that affects product quality must demonstrate competence based on appropriate education, training, skills, and experience. MediTech Solutions Inc. maintains documented procedures for Human Resources to define competency requirements, training protocols, and skill evaluation for roles impacting quality given in SOP\_05 – Resource and Infrastructure Management. Processes include:
+Personnel performing work that affects product quality must demonstrate competence based on appropriate education, training, skills, and experience. The Company maintains documented procedures for Human Resources to define competency requirements, training protocols, and skill evaluation for roles impacting quality given in SOP\_05 – Resource and Infrastructure Management. Processes include:
 
   - **Competence Determination** – Identifying the necessary qualifications for personnel whose work affects product quality.
 
@@ -436,7 +436,7 @@ The methodology used to assess training effectiveness is proportionate to the ri
 
 ### 6.3 Infrastructure
 
-MediTech Solutions Inc. ensures that the infrastructure necessary to achieve product quality and regulatory compliance is maintained, including facilities, process equipment, and supporting services as per SOP\_05 – Resource and Infrastructure Management.
+The Company ensures that the infrastructure necessary to achieve product quality and regulatory compliance is maintained, including facilities, process equipment, and supporting services as per SOP\_05 – Resource and Infrastructure Management.
 
 The organization maintains the following key infrastructure elements:
 
@@ -460,11 +460,11 @@ To ensure the reliability of infrastructure components, the following maintenanc
 
 ### 6.4 Work Environment and Contamination Control
 
-MediTech Solutions Inc. ensures that the work environment is adequately controlled to maintain product quality and minimize the risk of contamination, especially in operations involving sterile disposable medical devices as per SOP\_06 – Work Environment and Contamination Control.
+The Company ensures that the work environment is adequately controlled to maintain product quality and minimize the risk of contamination, especially in operations involving sterile disposable medical devices as per SOP\_06 – Work Environment and Contamination Control.
 
 #### 6.4.1 Work Environment
 
-MediTech Solutions Inc. establishes, documents, and monitors work environment conditions to ensure conformity to product specifications. Where environmental factors impact product quality, specific control measures are implemented, as given in SOP\_06 – Work Environment and Contamination Control including:
+The Company establishes, documents, and monitors work environment conditions to ensure conformity to product specifications. Where environmental factors impact product quality, specific control measures are implemented, as given in SOP\_06 – Work Environment and Contamination Control including:
 
   - Cleanroom protocols
 
@@ -504,7 +504,7 @@ For sterile medical devices, specific requirements are documented for:
 
 ### 7.1 Planning of Product Realization
 
-MediTech Solutions Inc. has established, implemented, and maintained a documented procedure SOP\_09 - Design and Development Control Procedure, SOP\_10 Risk Management, for planning product realization for its products, consistent with the requirements of the other processes of the quality management system. The processes include the steps necessary to introduce new products as well as implementation of process and work instructions to detail the processes to be used, design and inspect the products.
+The Company has established, implemented, and maintained a documented procedure SOP\_09 - Design and Development Control Procedure, SOP\_10 Risk Management, for planning product realization for its products, consistent with the requirements of the other processes of the quality management system. The processes include the steps necessary to introduce new products as well as implementation of process and work instructions to detail the processes to be used, design and inspect the products.
 
 The planning of product considers the following:
 
@@ -516,11 +516,11 @@ The planning of product considers the following:
 
   - Records needed to demonstrate conformity to product requirements, including sterilization records and batch release documentation.
 
-When changes are made to the product realization process, MediTech Solutions Inc. ensures that the planning process is updated accordingly and that any risk associated with the change is evaluated.
+When changes are made to the product realization process, the Company ensures that the planning process is updated accordingly and that any risk associated with the change is evaluated.
 
 The output of planning will be in a form suitable for the organization's method of operations, ensuring sterility, integrity, and compliance with regulatory requirements.
 
-MediTech Solutions Inc. applies risk management as per SOP\_10 - Risk Management throughout product realization, as required by regulatory requirements, to:
+The Company applies risk management as per SOP\_10 - Risk Management throughout product realization, as required by regulatory requirements, to:
 
   - Identify potential hazards related to sterilization, contamination, and packaging integrity.
 
@@ -534,7 +534,7 @@ MediTech Solutions Inc. applies risk management as per SOP\_10 - Risk Management
 
 #### 7.2.1 Determination of Requirements Related to the Product
 
-MediTech Solutions Inc. has established, implemented, and maintained a documented procedure SOP\_06 - Customer Order Procedure. MediTech Solutions Inc designs its own products and does not make custom products as per custom specifications.
+The Company has established, implemented, and maintained a documented procedure SOP\_06 - Customer Order Procedure. The Company designs its own products and does not make custom products as per custom specifications.
 
 The procedure documents the following:
 
@@ -544,25 +544,25 @@ The procedure documents the following:
 
   - Statutory and regulatory requirements applicable to medical devices, including sterilization validation and lot traceability.
 
-  - Any additional requirements determined by MediTech Solutions Inc.
+  - Any additional requirements determined by the Company
 
 #### 7.2.2 Review of Requirements Related to the Product
 
-MediTech Solutions Inc. reviews the requirements related to sterile disposable products prior to commitment to supply a product to the customer as defined in the procedure SOP\_06 - Customer Order Procedure (e.g., submission of tenders, acceptance of contracts or orders, acceptance of changes to contracts or orders). This review ensures that:
+The Company reviews the requirements related to sterile disposable products prior to commitment to supply a product to the customer as defined in the procedure SOP\_06 - Customer Order Procedure (e.g., submission of tenders, acceptance of contracts or orders, acceptance of changes to contracts or orders). This review ensures that:
 
   - Product requirements are clearly defined and aligned with sterilization standards.
 
   - Contract or order requirements differing from those previously expressed are resolved.
 
-  - MediTech Solutions Inc. has the capability to meet the defined requirements, including sterilization and packaging specifications.
+  - the Company has the capability to meet the defined requirements, including sterilization and packaging specifications.
 
 Records of the results of the review and actions arising from the review are maintained.
 
-If requirements are changed, MediTech Solutions Inc. ensures that relevant documents are amended and that relevant personnel are made aware of the changed requirements.
+If requirements are changed, the Company ensures that relevant documents are amended and that relevant personnel are made aware of the changed requirements.
 
 #### 7.2.3 Communication
 
-MediTech Solutions Inc. determines and implement effective arrangements for communicating with customers as per the procedure SOP\_06 - Customer Order Procedure and SOP\_08 Customer Complaints and Feedback Procedure in relation to:
+The Company determines and implement effective arrangements for communicating with customers as per the procedure SOP\_06 - Customer Order Procedure and SOP\_08 Customer Complaints and Feedback Procedure in relation to:
 
   - Product information, including sterilization assurance and shelf life.
 
@@ -574,9 +574,9 @@ MediTech Solutions Inc. determines and implement effective arrangements for comm
 
 #### 7.3.1 General
 
-MediTech Solutions Inc. has defined a procedure for the design and development (SOP\_09\_Design and Development Control) of sterile disposable medical devices including surgical gowns, drapes, syringes, and catheters. The design and development process ensures that our products meet user needs, intended uses, regulatory requirements, and are suitable for safe and effective use.
+The Company has defined a procedure for the design and development (SOP\_09\_Design and Development Control) of sterile disposable medical devices including surgical gowns, drapes, syringes, and catheters. The design and development process ensures that our products meet user needs, intended uses, regulatory requirements, and are suitable for safe and effective use.
 
-MediTech maintains and documents the records for design and development for all new products and significant changes to existing products.
+The Company maintains and documents the records for design and development for all new products and significant changes to existing products.
 
 #### 7.3.2 Design and Development Planning
 
@@ -632,13 +632,13 @@ Change impact assessment evaluates effects on product safety, performance, regul
 
 #### 7.3.10 Design and Development File / Design History File (DHF)
 
-MediTech has maintained a Design History File (DHF) for each medical device containing or referencing all design and development processes including any change assessments, using Form\_09-009 Design History File.
+The Company has maintained a Design History File (DHF) for each medical device containing or referencing all design and development processes including any change assessments, using Form\_09-009 Design History File.
 
 ### 7.4 Purchasing
 
 #### 7.4.1 Purchasing Process
 
-Purchasing activities at MediTech are governed by SOP\_011 – Supplier Evaluation and Purchasing Controls. Suppliers of materials, components, and sterilization services that affect product quality or regulatory compliance are evaluated, qualified, and re-evaluated based on their ability to meet MediTech’s specifications and applicable regulatory requirements.
+Purchasing activities at the Company are governed by SOP\_011 – Supplier Evaluation and Purchasing Controls. Suppliers of materials, components, and sterilization services that affect product quality or regulatory compliance are evaluated, qualified, and re-evaluated based on their ability to meet the Company’s specifications and applicable regulatory requirements.
 
 The supplier evaluation and qualification process include:
 
@@ -678,7 +678,7 @@ All purchasing documents are reviewed and approved before issuance to ensure ali
 
 #### 7.4.3 Verification of Purchased Products
 
-MediTech verifies incoming materials as per Form 12\_03 - Incoming Quality Check through a combination of: 
+The Company verifies incoming materials as per Form 12\_03 - Incoming Quality Check through a combination of: 
 
   - Visual inspection and documentation checks on receipt. 
 
@@ -748,15 +748,15 @@ Cleanroom conditions are maintained and logged as per SOP\_06 – Work Environme
 
 #### 7.5.3 Requirements for Sterile Medical Devices
 
-MediTech’s sterile disposable products do not require installation.  
+The Company’s sterile disposable products do not require installation.  
 
 #### 7.5.4 Validation of Processes for Production and Service Provision
 
-MediTech’s products are single-use, disposable sterile devices and do not require servicing.
+The Company’s products are single-use, disposable sterile devices and do not require servicing.
 
 #### 7.5.5 Validation of Sterilization and Sterile Barrier Systems
 
-MediTech manufactures sterile medical devices. Controls are in place for: 
+The Company manufactures sterile medical devices. Controls are in place for: 
 
   - Validated sterilization methods (e.g., EO sterilization cycle parameters). 
 
@@ -778,7 +778,7 @@ MediTech manufactures sterile medical devices. Controls are in place for: 
 
 #### 7.5.6 Identification
 
-All critical production processes at MediTech Solutions Inc. are validated in accordance with SOP\_011 – Production and Process Controls and SOP\_020 -
+All critical production processes at the Company are validated in accordance with SOP\_011 – Production and Process Controls and SOP\_020 -
 
 Software and Process Validation. This ensures consistent output and compliance with product specifications and regulatory standards. 
 
@@ -840,7 +840,7 @@ Identification ensures traceability from raw material to finished goods and is g
 
 ##### 7.5.9.1 General
 
-MediTech Solutions Inc. maintains traceability in accordance with SOP\_014 – Identification and Traceability, ensuring compliance with ISO 13485:2016 and US FDA 21 CFR Part 820 Subpart M (Identification and Traceability). 
+The Company maintains traceability in accordance with SOP\_014 – Identification and Traceability, ensuring compliance with ISO 13485:2016 and US FDA 21 CFR Part 820 Subpart M (Identification and Traceability). 
 
 Traceability is established and documented for: 
 
@@ -860,15 +860,15 @@ Traceability is established and documented for: 
 
 <!-- end list -->
 
-  - MediTech ensures that for implantable and life-supporting devices (if applicable in the future), traceability includes complete documentation from raw material sourcing to end-user delivery, as per FDA 21 CFR 820.65. 
+  - the Company ensures that for implantable and life-supporting devices (if applicable in the future), traceability includes complete documentation from raw material sourcing to end-user delivery, as per FDA 21 CFR 820.65. 
 
 ##### 7.5.9.2 Requirements for Implantable Medical Devices
 
-MediTech does not manufacture implantable devices.
+The Company does not manufacture implantable devices.
 
 #### 7.5.10 Customer Property
 
-MediTech does not receive or manage any customer-owned property as part of its operations.
+The Company does not receive or manage any customer-owned property as part of its operations.
 
 #### 7.5.11 Preservation of Product
 
@@ -908,7 +908,7 @@ Computer software used for monitoring and measurement shall be validated prior t
 
 ### 8.1 General
 
-MediTech Solutions has established, documented, and implemented a comprehensive framework for monitoring, measurement, analysis, and improvement activities to ensure the ongoing effectiveness and conformity of our Quality Management System as per SOP\_016 - Corrective and Preventive Action (CAPA) and SOP\_023 - Data Analysis Procedure. These activities are aligned with our commitment to meet both customer and applicable regulatory requirements related to the safety and performance of our medical devices.
+The Company has established, documented, and implemented a comprehensive framework for monitoring, measurement, analysis, and improvement activities to ensure the ongoing effectiveness and conformity of our Quality Management System as per SOP\_016 - Corrective and Preventive Action (CAPA) and SOP\_023 - Data Analysis Procedure. These activities are aligned with our commitment to meet both customer and applicable regulatory requirements related to the safety and performance of our medical devices.
 
 The goals of this framework are:
 
@@ -928,13 +928,13 @@ These processes are integrated into routine operations and are reviewed during m
 
 #### 8.2.1 Feedback
 
-MediTech Solutions has established a documented feedback process as per SOP\_08- customer Complaint and Feedback procedure which is documented using Customer Feedback- Form\_08-02. This process enables the systematic collection, assessment, and utilization of feedback from internal and external sources to monitor the performance and safety of our sterile disposable medical devices. The Quality Assurance department centrally manages and categorizes this feedback based on severity and product type, following risk-based evaluation criteria outlined in the Risk Management Procedure as required in (SOP\_10) and CAPA Management to be done as per SOP (SOP\_16).
+The Company has established a documented feedback process as per SOP\_08- customer Complaint and Feedback procedure which is documented using Customer Feedback- Form\_08-02. This process enables the systematic collection, assessment, and utilization of feedback from internal and external sources to monitor the performance and safety of our sterile disposable medical devices. The Quality Assurance department centrally manages and categorizes this feedback based on severity and product type, following risk-based evaluation criteria outlined in the Risk Management Procedure as required in (SOP\_10) and CAPA Management to be done as per SOP (SOP\_16).
 
-Each feedback item is evaluated to determine whether it qualifies as a complaint, reportable event, or signal requiring further investigation. Feedback data is also shared with the Post-Market Surveillance Team for trend analysis and regulatory reporting, contributing to vigilance submissions and annual safety updates. The feedback as per (Form\_08-02) is routinely reviewed during internal audits and management reviews, and all related records are maintained per MediTech’s Control of Records (SOP\_02). This integrated feedback system supports continuous improvement, regulatory compliance, and the ongoing safety and performance of MediTech’s products.
+Each feedback item is evaluated to determine whether it qualifies as a complaint, reportable event, or signal requiring further investigation. Feedback data is also shared with the Post-Market Surveillance Team for trend analysis and regulatory reporting, contributing to vigilance submissions and annual safety updates. The feedback as per (Form\_08-02) is routinely reviewed during internal audits and management reviews, and all related records are maintained per the Company’s Control of Records (SOP\_02). This integrated feedback system supports continuous improvement, regulatory compliance, and the ongoing safety and performance of the Company’s products.
 
 #### 8.2.2 Complaint handling
 
-MediTech Solutions has formalized the complaint handling procedure as per SOP\_08 Customer Complaints and Feedback Procedure in accordance with regulatory requirements. This includes:
+The Company has formalized the complaint handling procedure as per SOP\_08 Customer Complaints and Feedback Procedure in accordance with regulatory requirements. This includes:
 
   - Receipt and documentation of the complaint as required in (Form\_08-01)
 
@@ -952,7 +952,7 @@ All complaints are tracked in a centralized system using Form\_08-03 - Complaint
 
 #### 8.2.3 Reporting to regulatory authorities
 
-In alignment with applicable national and international regulations, the MediTech solution has established a procedure SOP\_018 - Vigilance, Reporting and Recall ensuring timely reporting of:
+In alignment with applicable national and international regulations, the Company solution has established a procedure SOP\_018 - Vigilance, Reporting and Recall ensuring timely reporting of:
 
   - Adverse events
 
@@ -970,9 +970,9 @@ We maintain a list of country-specific regulatory reporting timelines and requir
 
 #### 8.2.4 Internal audit
 
-MediTech Solutions conducts internal audits annually as SOP\_017- Internal Audit to ensure that its Quality Management System (QMS) complies with applicable regulatory requirements, and internal quality standards. These audits verify the effective implementation and ongoing maintenance of the QMS. Auditors are selected to maintain objectivity and are not permitted to audit their own work.
+The Company conducts internal audits annually as SOP\_017- Internal Audit to ensure that its Quality Management System (QMS) complies with applicable regulatory requirements, and internal quality standards. These audits verify the effective implementation and ongoing maintenance of the QMS. Auditors are selected to maintain objectivity and are not permitted to audit their own work.
 
-Audit findings, conclusions, and records are maintained in the MediTech QMS as per Control of Records (SOP\_02). Every department is responsible for timely correction and implementation of corrective actions for identified nonconformities. Follow-up activities ensure actions are completed and effective. Internal audits support MediTech’s commitment to continuous improvement and regulatory compliance.
+Audit findings, conclusions, and records are maintained in the Company's QMS as per Control of Records (SOP\_02). Every department is responsible for timely correction and implementation of corrective actions for identified nonconformities. Follow-up activities ensure actions are completed and effective. Internal audits support the Company’s commitment to continuous improvement and regulatory compliance.
 
 #### 8.2.5 Monitoring and measurement of processes
 
@@ -986,7 +986,7 @@ Critical processes are identified, and key performance indicators (KPIs) are def
 
 #### 8.2.6 Monitoring and measurement of product
 
-MediTech solutions verified using product conformity using Production and Process control (SOP\_012) and Form 12\_04 Final Quality Check
+The Company verifies product conformity using Production and Process control (SOP\_012) and Form 12\_04 Final Quality Check
 
   - Incoming inspection of raw materials and components
 
@@ -1000,7 +1000,7 @@ Records are maintained for each inspection, and nonconforming products are handl
 
 #### 8.3.1 General
 
-MediTech Solutions Inc. has developed a procedure to identify, segregate, document, review, communicate, and disposition of Non-Conforming products as per SOP\_015\_ Control of Nonconforming Product. Each nonconformance is evaluated to determine the need for:
+The Company has developed a procedure to identify, segregate, document, review, communicate, and disposition of Non-Conforming products as per SOP\_015\_ Control of Nonconforming Product. Each nonconformance is evaluated to determine the need for:
 
   - Further investigation
 
@@ -1012,7 +1012,7 @@ Records document the nature of nonconformities, evaluation results, investigatio
 
 #### 8.3.2 Actions in response to nonconforming product detected before delivery
 
-MediTech Solutions Inc. addresses nonconforming products through one or more of the following actions as mentioned in SOP\_015- Control of Nonconforming Products:
+The Company addresses nonconforming products through one or more of the following actions as mentioned in SOP\_015- Control of Nonconforming Products:
 
   - **Corrective Action** - Eliminates the detected nonconformity.
 
@@ -1026,7 +1026,7 @@ Products accepted under concession are properly justified, approved, and documen
 
 #### 8.3.3 Actions in response to nonconforming product detected after delivery
 
-If a nonconforming product is discovered post-delivery or during use, MediTech Solutions Inc. act appropriate to the severity of its effects or potential risks. Actions may include:
+If a nonconforming product is discovered post-delivery or during use, the Company act appropriate to the severity of its effects or potential risks. Actions may include:
 
   - Product recall or field correction
 
@@ -1040,7 +1040,7 @@ Procedure for customer complaint as per SOP\_08 - Customer Complaints and Feedba
 
 #### 8.3.4 Rework
 
-This clause is not applicable as MediTech Solutions does not involve in Rework Activities since it is single-use device.
+This clause is not applicable as the Company does not involve in Rework Activities since it is single-use device.
 
 ### 8.4 Analysis of Data
 
@@ -1068,11 +1068,11 @@ Records of data analysis results are maintained in accordance with documented pr
 
 Improvement to the QMS will be achieved continually through the results of analysis of data, quality objectives, quality policy, customer feedback, audit results, corrective action, preventive action, management reviews and post-market surveillance as per the SOP\_015-Corrective and Preventive Action (CAPA) procedure.
 
-MediTech Solutions promptly initiates containment actions upon detecting nonconformities to prevent further use or processing of affected products and is quarantined as per Form 05\_04 - Infrastructure Layout. Actions include halting production, isolating items, and notifying stakeholders, maintained until root cause analysis and corrective measures are completed and verified.
+The Company promptly initiates containment actions upon detecting nonconformities to prevent further use or processing of affected products and is quarantined as per Form 05\_04 - Infrastructure Layout. Actions include halting production, isolating items, and notifying stakeholders, maintained until root cause analysis and corrective measures are completed and verified.
 
 #### 8.5.2 Corrective Action
 
-Corrective Action will be taken for all Non-Conformities, Complaints from the field, failure from supplier end, to eliminate its recurrence. MediTech has defined procedure SOP\_015 - Corrective and Preventive Action (CAPA) to ensure the following is documented
+Corrective Action will be taken for all Non-Conformities, Complaints from the field, failure from supplier end, to eliminate its recurrence. The Company has defined procedure SOP\_015 - Corrective and Preventive Action (CAPA) to ensure the following is documented
 
   - Reviewing any nonconformities and determining the causes
 
@@ -1084,7 +1084,7 @@ Corrective Action will be taken for all Non-Conformities, Complaints from the fi
 
 #### 8.5.3 Preventive Action
 
-Preventive Action will be taken for all possible non-conformities in order to prevent their occurrence. During the initial phase of design, risk management is performed as per SOP\_10- Risk Management to avoid any potential non-conformities. MediTech has defined procedure SOP\_015-Corrective and Preventive Action (CAPA) to ensure the following is documented:
+Preventive Action will be taken for all possible non-conformities in order to prevent their occurrence. During the initial phase of design, risk management is performed as per SOP\_10- Risk Management to avoid any potential non-conformities. The Company has defined procedure SOP\_015-Corrective and Preventive Action (CAPA) to ensure the following is documented:
 
   - Reviewing any possible nonconformities and determining the causes
 

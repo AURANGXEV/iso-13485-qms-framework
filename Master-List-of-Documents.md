@@ -1,6 +1,6 @@
 # Master List of Documents (Form_01-02)
 
-**MediTech Solutions Inc.** — ISO 13485:2016 QMS document register
+ISO 13485:2016 QMS document register
 
 | Document Number | Name of Document | Level of Document | Version History | Release Date | Next Review Date |
 |---|---|---|---|---|---|
