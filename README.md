@@ -2,7 +2,7 @@
 
 A Quality Management System (QMS) documentation framework for a medical device manufacturer, built around **ISO 13485:2016** and aligned with **US FDA 21 CFR Part 820**, **MDSAP**, and **Health Canada CMDR** requirements.
 
-The framework is written for a fictional manufacturer of sterile, single-use medical devices and is shared publicly so that students, quality professionals, and early-stage medical device companies can use it as a starting point or study reference.
+The framework is written for a representative manufacturer of sterile, single-use medical devices and is shared publicly so that students, quality professionals, and early-stage medical device companies can use it as a starting point or study reference.
 
 ## Contents
 
@@ -27,4 +27,4 @@ Document control and records, management responsibility and review, training and
 
 ## Disclaimer
 
-These documents describe a fictional company and are provided for educational and reference purposes. They have not been used in a certified QMS or reviewed by a regulatory body or registrar. If you adapt them for real use, they must be tailored to your organization, products, and applicable regulations, and reviewed by qualified quality/regulatory personnel.
+These documents describe a representative (non-existent) company and are provided for educational and reference purposes. They have not been used in a certified QMS or reviewed by a regulatory body or registrar. If you adapt them for real use, they must be tailored to your organization, products, and applicable regulations, and reviewed by qualified quality/regulatory personnel.

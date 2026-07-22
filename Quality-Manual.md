@@ -1,6 +1,6 @@
 # Quality Manual (QM_01)
 
-*An educational reference Quality Manual for a fictional manufacturer of sterile, single-use medical devices.*
+*An educational reference Quality Manual for a representative manufacturer of sterile, single-use medical devices.*
 
 | | |
 | --- | --- |
@@ -9,7 +9,7 @@
 | Standard | ISO 13485:2016 |
 | Related regulations | US FDA 21 CFR Part 820, MDSAP, Health Canada CMDR |
 
-> **Note:** This Quality Manual describes the Quality Management System of a fictional medical device manufacturer and is shared for educational and reference purposes. Figures from the original document (organization chart, process interaction diagram) are not included in this markdown version.
+> **Note:** This Quality Manual describes the Quality Management System of a representative medical device manufacturer and is shared for educational and reference purposes. Figures from the original document (organization chart, process interaction diagram) are not included in this markdown version.
 
 ## Approvals
 
